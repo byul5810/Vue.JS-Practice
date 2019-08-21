@@ -11,6 +11,6 @@
 - Looping with v-for
 
 ## SkillS
--HTML
--CSS
--VUE.JS
+- HTML
+- CSS
+- VUE.JS
