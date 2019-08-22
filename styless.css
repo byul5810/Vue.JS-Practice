@@ -1,11 +1,11 @@
-#canvas{
+#canvas {
     width: 600px;
     padding: 200px 20px;
-    text-align:center;
-    border:1px solid #333;
+    text-align: center;
+    border: 1px solid #333;
 }
 
-span{
+span {
     background: red;
     display: inline-block;
     padding: 10px;
@@ -14,11 +14,11 @@ span{
 
 }
 
-.available span{
-    background:green;
+.available span {
+    background: green;
 }
 
-.nearby span:after{
-    content:"nearby";
-    margin-left:10px;
+.nearby span:after {
+    content: "nearby";
+    margin-left: 10px;
 }

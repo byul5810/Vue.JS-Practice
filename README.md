@@ -9,6 +9,8 @@
 - Dynamic CSS classes
 - Conditionals
 - Looping with v-for
+- Multiple Instances
+- References
 
 ## SkillS
 - HTML
